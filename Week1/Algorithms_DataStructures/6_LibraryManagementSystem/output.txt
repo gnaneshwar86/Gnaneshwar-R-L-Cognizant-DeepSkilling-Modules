@@ -1,0 +1,32 @@
+===== Library Management System =====
+
+1. Display Books
+2. Linear Search
+3. Binary Search
+4. Exit
+
+Enter Choice: 1
+
+----------------------------------------------
+ID       Title                     Author
+----------------------------------------------
+101      Java Programming          James Gosling
+102      Data Structures           Mark Allen
+103      Algorithms                Thomas Cormen
+104      Operating Systems         Galvin
+105      Computer Networks         Andrew Tanenbaum
+----------------------------------------------
+
+Enter Choice: 2
+
+Enter Book Title:
+Algorithms
+
+103      Algorithms                Thomas Cormen
+
+Enter Choice: 3
+
+Enter Book Title:
+Java Programming
+
+101      Java Programming          James Gosling

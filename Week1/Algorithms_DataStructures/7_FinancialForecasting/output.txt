@@ -1,0 +1,10 @@
+===== Financial Forecasting =====
+
+Enter Present Value : 10000
+
+Enter Growth Rate (%) : 10
+
+Enter Number of Years : 5
+
+Future Value (Recursive) : 16105.10
+Future Value (Formula)   : 16105.10

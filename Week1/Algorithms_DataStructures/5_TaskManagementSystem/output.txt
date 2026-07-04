@@ -1,0 +1,21 @@
+===== Task Management System =====
+
+1. Add Task
+2. Search Task
+3. Display Tasks
+4. Delete Task
+5. Exit
+
+Enter Choice: 1
+
+Task ID: 101
+Task Name: Complete Report
+Status: Pending
+
+Task Added Successfully.
+
+---------------------------------------------
+ID       Task Name            Status
+---------------------------------------------
+101      Complete Report      Pending
+---------------------------------------------
