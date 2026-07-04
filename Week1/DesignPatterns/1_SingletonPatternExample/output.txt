@@ -1,0 +1,8 @@
+
+Logger instance created.
+LOG: Application Started
+LOG: Loading Modules
+
+Only one Logger instance exists.
+logger1 HashCode : 1995265320
+logger2 HashCode : 1995265320
